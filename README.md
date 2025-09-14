@@ -45,9 +45,9 @@ Project Overview:  This project analyses Zomato’s order and restaurant data to
 
 Delivered an interactive Power BI dashboard providing Zomato with a **360° view of sales, satisfaction, and operational metrics**, aiding in data-backed business decisions.
 
-<img width="1208" height="681" alt="Screenshot 2025-07-17 033806" src="https://github.com/user-attachments/assets/87e68645-de19-4ef0-b746-fe4b24dc29b8" />
-<img width="1212" height="671" alt="Screenshot 2025-07-17 033750" src="https://github.com/user-attachments/assets/2abaa63d-8306-4b3c-9e67-398eca7bda7a" />
-<img width="1207" height="673" alt="Screenshot 2025-07-17 033729" src="https://github.com/user-attachments/assets/1ff61782-17e0-47aa-9f4f-7c63ec507f10" />
-<img width="1209" height="680" alt="Screenshot 2025-07-17 033708" src="https://github.com/user-attachments/assets/bb2ea5a3-0981-4c03-87b5-5f1fecc96285" />
-<img width="1209" height="679" alt="Screenshot 2025-07-17 033654" src="https://github.com/user-attachments/assets/25d85b8b-f9ae-4ab2-8bdb-dc809b2293e8" />
-<img width="1210" height="675" alt="Screenshot 2025-07-17 033630" src="https://github.com/user-attachments/assets/396aafff-98b4-4799-8320-910d88f34c6c" />
+<img width="1208" height="681" alt="Screenshot 2025-07-17 033806" src="https://github.com/user-attachments/assets/af427115-ee99-45b4-a71f-6d88fb9ec8a6" />
+<img width="1212" height="671" alt="Screenshot 2025-07-17 033750" src="https://github.com/user-attachments/assets/8bb370b7-63b1-4c2d-9a53-96f2cf7fd00c" />
+<img width="1207" height="673" alt="Screenshot 2025-07-17 033729" src="https://github.com/user-attachments/assets/a4ec00ee-a3be-41e8-a635-1f5f8cbebfcc" />
+<img width="1209" height="680" alt="Screenshot 2025-07-17 033708" src="https://github.com/user-attachments/assets/3368fc1c-2d8a-410c-bd7c-f501ba069b08" />
+<img width="1210" height="675" alt="Screenshot 2025-07-17 033630" src="https://github.com/user-attachments/assets/64d64f9e-1639-437c-bf31-3bbed1c87570" />
+
